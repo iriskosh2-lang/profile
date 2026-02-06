@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "이리스(IRISK) - 한의학과 포트폴리오",
+  title: "고서현(Go Seohyun) - 한의학과 포트폴리오",
   description: "세명대학교 한의학과 학생의 학업, 봉사, 국제 교류 경험을 담은 포트폴리오",
 };
 

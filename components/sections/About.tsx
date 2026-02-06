@@ -30,7 +30,7 @@ export function About() {
                     </div>
                 </div>
 
-                <div className="relative aspect-square md:aspect-[4/5] rounded-2xl overflow-hidden bg-secondary-100 shadow-xl mx-auto w-full max-w-md">
+                <div className="relative aspect-square md:aspect-[4/5] rounded-2xl overflow-hidden bg-secondary-100 shadow-2xl mx-auto w-full max-w-md border-4 border-white rotate-2 hover:rotate-0 transition-transform duration-500 ring-1 ring-secondary-200/50">
                     <img
                         src="/images/profile.png"
                         alt="Profile"

@@ -13,9 +13,9 @@ export function Hero() {
                 </h2>
 
                 <h1 className="font-heading text-5xl md:text-7xl lg:text-8xl font-bold text-primary-900 mb-6 tracking-tight">
-                    {profileData.englishName}
-                    <span className="block text-2xl md:text-4xl mt-2 font-normal text-secondary-500 font-sans">
-                        {profileData.title}
+                    {profileData.name}
+                    <span className="block text-xl md:text-2xl mt-4 font-normal text-secondary-500 font-sans tracking-wide">
+                        {profileData.englishName} · {profileData.title}
                     </span>
                 </h1>
 

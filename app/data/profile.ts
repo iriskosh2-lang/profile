@@ -10,8 +10,8 @@ export interface Experience {
 }
 
 export const profileData = {
-    name: "이리스",
-    englishName: "IRISK",
+    name: "고서현",
+    englishName: "Go Seohyun",
     title: "한의학과 학생 & 예비 연구자",
     university: "세명대학교",
     major: "한의학과",
